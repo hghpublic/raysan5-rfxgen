@@ -1,0 +1,29 @@
+= rFXGen
+:toc:
+:sectnums:
+ifndef::env-github[:icons: font]
+:note-caption: :paperclip:
+:important-caption: :exclamation:
+:warning-caption: :warning:
+
+== rFXGen
+
+
+https://www.raylib.com
+
+https://github.com/raysan5/rfxgen
+
+https://github.com/hghpublic/raysan5-rfxgen
+
+== GLFW
+
+https://www.glfw.org/
+
+GitHub::
+
+https://github.com/glfw/glfw
+
+
+== DrPetter's sfxr
+
+https://www.drpetter.se/project_sfxr.html
