@@ -1175,7 +1175,7 @@ static void ProcessCommandLine(int argc, char *argv[])
             if (((i + 1) < argc) && (argv[i + 1][0] != '-'))
             {
                 int numValues = 0;
-                char **values = TextSplit(argv[i + 1], ',', &numValues);
+                const char **values = TextSplit(argv[i + 1], ',', &numValues);
 
                 if (numValues != 3) LOG("WARNING: Incorrect number of format values\n");
                 else
